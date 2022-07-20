@@ -18,7 +18,9 @@ code .
 https://silly-sprinkles-74710a.netlify.app/
 
 ## Screen-Shots 📸
-![Screenshot 2022-07-20 at 20-11-05 Document](https://user-images.githubusercontent.com/69895353/180010777-9b20930a-c7f0-4bd0-8b9e-3bfc74294c71.png)
+![Screenshot 2022-07-20 at 22-22-52 Document](https://user-images.githubusercontent.com/69895353/180039794-74e43143-86d1-4833-8aa0-725790518465.png)
+
+
 
 ## Languages / Tools used ⚙
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
