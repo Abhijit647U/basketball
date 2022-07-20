@@ -7,16 +7,12 @@ Requirement
 
 ```
 git clone https://github.com/Abhijit647U/basketball
-```
 
-```
 cd basketball
-```
 
-```
 code .
 ```
-*to open project in `VScode`
+*to open project in `VScode` use `code .`
 
 ## Link 📎
 https://silly-sprinkles-74710a.netlify.app/
