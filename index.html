@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>BASKETBALL SCORE CARD</h1>
+    <div>
+        <h3 class="team-name home">HOME</h3>
+        <p class="home-score" id="count-h">0</p>
+        <button class="h-btn1 h-btn" onclick="incrementh1()">+1</button>
+        <button class="h-btn2 h-btn" onclick="incrementh2()">+2</button>
+        <button class="h-btn3 h-btn" onclick="incrementh3()">+3</button>
+    </div>
+    <div>
+        <h3 class="team-name guest">GUEST</h3>
+        <p class="guest-score" id="count-g">0</p>
+        <button class="g-btn1 g-btn" onclick="incrementg1()">+1</button>
+        <button class="g-btn2 g-btn" onclick="incrementg2()">+2</button>
+        <button class="g-btn3 g-btn" onclick="incrementg3()">+3</button>
+    </div>
+    <div>
+        <button class="reset-btn" onclick="reset()">RESET</button>
+    </div>
+</div>
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,155 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    margin: 0;
+}
+
+h1{
+    position: absolute;
+}
+
+.container{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    width: 575px;
+    height: 385px;
+    background: #1B244A;
+    top: 100px;
+    left: 100px;
+    border: #091342 solid 30px;
+}
+
+.guest-score{
+    position: absolute;
+    width: 155px;
+    height: 120px;
+    left: 337px;
+    top: 125px;
+
+    background: #080001;
+    border-radius: 5px;
+}
+
+.home-score{
+    position: absolute;
+    width: 155px;
+    height: 120px;
+    left: 82px;
+    top: 125px;
+
+    background: #080001;
+    border-radius: 5px;
+}
+
+.team-name{
+    position: absolute;
+    width: 149px;
+    height: 36px;
+
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 36px;
+    /* identical to box height, or 90% */
+    text-align: center;
+    color: #EEEEEE;
+}
+
+.home{
+    left: 85px;
+    top: 68px;
+}
+
+.guest{
+    left: 340px;
+    top: 68px;
+}
+
+p{
+    position: absolute;
+width: 117px;
+height: 120px;
+left: 355px;
+top: 125px;
+
+font-family: 'Cursed Timer ULiL';
+font-style: normal;
+font-weight: 400;
+font-size: 90px;
+line-height: 127px;
+/* or 141% */
+
+text-align: center;
+
+color: #F94F6D;
+}
+
+.h-btn, .g-btn{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    background: transparent;
+    border: 2px solid #9AABD8;
+    border-radius: 5px;
+}
+
+.h-btn1{
+    
+    left: 90px;
+    top: 271px;
+}
+
+.h-btn2{
+    left: 144px;
+    top: 271px;
+}
+.h-btn3{
+    left: 200px;
+    top: 271px;
+}
+.h-btn, .g-btn{
+    position: absolute;
+    width: 30px;
+    height: 25.77px;
+
+    font-family: 'Cursed Timer ULiL';
+    font-style: normal;
+    font-size: 17px;
+    line-height: 28px;
+    /* or 155% */
+    text-align: center;
+    color: #9AABD8;
+}
+
+.g-btn1{
+    left: 345px;
+    top: 271px;
+}
+.g-btn2{
+    left: 399px;
+    top: 271px;
+}
+.g-btn3{
+    left: 455px;
+    top: 271px;
+}
+
+.reset-btn{
+    position: absolute;
+    width: 155px;
+    height: 50px;
+    left: 213px;
+    top: 320px;
+    font-size: 20px;
+    background: #9CA3AF;
+    border-radius: 5px;
+}
+
+
